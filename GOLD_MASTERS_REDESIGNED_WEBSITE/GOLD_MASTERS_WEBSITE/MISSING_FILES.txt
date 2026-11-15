@@ -1,0 +1,4 @@
+The original uploaded archive did not include style.css, logo.png, logo.svg or intro.mp4.
+This redesigned website package now includes a new style.css, logo.png and logo.svg.
+The logo is a temporary GM monogram, not the original official brand artwork.
+No intro.mp4 was provided or recreated.
